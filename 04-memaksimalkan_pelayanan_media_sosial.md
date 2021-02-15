@@ -1,3 +1,5 @@
+[Back]("/../README.md")
+
 # Kapita Selekta: "Memaksimalkan Pelayanan Media Sosial"
 oleh Aryanto Wijaya dan Alex Nanlohy
 

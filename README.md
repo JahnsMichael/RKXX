@@ -1,6 +1,6 @@
 # RK XX : "Rise Up, Preach the Word"
 
-> GitHub Pages ini berisikan catatan pribadi dari Jahns Michael tentang hal-hal yang dia nikmati dan catat dari acara Retret Koordinator XX dengan tema "Rise Up, Preach the Word" pada tanggal 13-14 Februari 2020
+> GitHub Pages ini berisikan catatan pribadi dari Jahns Michael tentang hal-hal yang dia nikmati dan catat dari acara Retret Koordinator XX dengan tema "Rise Up, Preach the Word" pada tanggal 13-14 Februari 2021
 
 - [Sesi 1: "Paul and His Identity" (Filipi 3:1-16)](01-paul_and_his_identity.md)
 - [Sesi 2: "Paul and His Obstales"](02-paul_and_his_obstacles.md)
